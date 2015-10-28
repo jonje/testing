@@ -4,6 +4,7 @@ out/*
 # binary
 *.jar
 *.class
+src/META-INF/*
 
 #IntelliJ Files
 *.iml
